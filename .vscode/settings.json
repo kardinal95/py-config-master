@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\ustal\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\py-config-master-LRpvV-sG-py3.8\\Scripts\\python.exe",
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": ["--line-length", "79"]
+}
